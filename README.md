@@ -1,3 +1,7 @@
+English | [简体中文](https://github.com/Des-Magmeta/Gathering-Script/blob/main/REASME-ZHS.md) | [繁體中文](https://github.com/Des-Magmeta/Gathering-Script/blob/main/README-ZHT.md)
+
+> [!Note]
+> This repository is in process now. It's estimated that the first demo version will be released in 2026.
 # Gathering Script (Stay tuned) 
  An open source CJK font devired from Fontworks' Klee One. 
   
