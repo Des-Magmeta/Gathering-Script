@@ -1,6 +1,10 @@
 [English](./README.md) | <span lang="zh-CN"> 简体中文 </span> | <span lang="zh-TW"> [繁體中文](./README-ZHT.md) </span>
 
+> [!Note]
+> 该项目目前处于准备阶段，首发演示版预计将于 2026 年发布。
+
 <div lang="zh-CN">
+
 # Gathering Script | 缘聚楷  
 一款开源泛中日韩字体，基于 Fontworks 的 Klee One 衍生。
 
