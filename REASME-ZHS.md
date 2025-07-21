@@ -1,5 +1,4 @@
-[English](./README.md) | 简体中文 | <span lang="zh-TW"> [繁體中文](./README-ZHT.md)
-</span>
+[English](./README.md) | <span lang="zh-CN"> 简体中文 </span> | <span lang="zh-TW"> [繁體中文](./README-ZHT.md) </span>
 
 <div lang="zh-CN">
 # Gathering Script | 缘聚楷  
