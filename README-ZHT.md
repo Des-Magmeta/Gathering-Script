@@ -1,10 +1,11 @@
 [English](./README.md) | <span lang="zh-CN"> [简体中文](./README-ZHS.md) </span> | <span lang="zh-TW"> 繁體中文 </span>
 
-> <div lang="zh-tw">
-> 
-> [!Note]
-> 此專案目前處於準備階段，首次發佈的演示版預計將於 2026 年釋出。
+> [!Note]   
+> <div lang="zh-TW">   
+>
+> 此專案目前處於準備階段，首次發佈的演示版預計將於 2026 年釋出。 
 > </div>
+
 
 <div lang="zh-tw"> 
 
