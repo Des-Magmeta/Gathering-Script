@@ -2,12 +2,16 @@ English | [简体中文](https://github.com/Des-Magmeta/Gathering-Script/blob/ma
 
 > [!Note]
 > This repository is in process now. It's estimated that the first demo version will be released in 2026.
-# Gathering Script (Stay tuned) 
+# Gathering Script | Stay tuned 
  An open source CJK font devired from Fontworks' Klee One. 
   
  ## Introduction 
+ Gathering Script (Chinese: <span lang="zh-cn">缘聚楷</span> / <span lang="zh-tw">緣聚楷</span>, Japanese: <span lang="ja-jp">ギャザー楷書</span>) is a TrueType CJK font that supports different East Asian languages, including Simplified Chinese (SC), Traditional Chinese (TW & HK), Japanese (JP) and Korean (KR). In this project, a full version font file includes about 50,000 glyphs, which can jointly present a consistent visual aesthetic. This font also includes Western glyphs, supporting Basic Latin, Greek and Cyrillic texts. Most of them comes from Klee One, some of which comes from its derivative fonts. 
+  
+ In certain situation, characters based on the same original ideographic character may have up to five regional differentiated glyph designs. This project covers all of these glyph variants and delicately designs these localized forms. In the case where the webpage/software supports glyph variations, you only need to select the corresponding language specific font or language tag, and the correct glyph variation can be set successfully. 
+ 
    <details>  
-   <summary>Click here to read th background of this project if you want to know.</summary> 
+   <summary>More details about this project can be viewed below.</summary> 
   
    In December 2020, Japanese famous font foundry Fontworks released [Klee One](https://github.com/fontworks-fonts/Klee) in an open-source way, which excited the whole font society. Klee One, which shares some features with Fangsong and Kaiti, namely elegant composition and high readability, ideal for texts, is favoured by Chinese users. Compared with traditional Kyokasho (Japanese: <span lang="ja-jp">教科書</span>) fonts, it reserved some features of traditional printing fonts. In 2021, [LXGW](https://github.com/lxgw) extended the glyphs based on it, which turned to be [LXGW WenKai](https://github.com/lxgw/LxgwWenKai), getting spoken highly of. Besides, Many font designers & amateurs also made fonts derived from Klee One, such as [Iansui](https://github.com/ButTaiwan/iansui), [JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai), etc. With the efforts of font designers, a series of fonts derived from Klee One support many enough characters more than that in Klee One.   
   
@@ -17,11 +21,6 @@ English | [简体中文](https://github.com/Des-Magmeta/Gathering-Script/blob/ma
   
    We hope to make a font like Source Han Sans (or Serif) that include big character set and multi-language. Gathering Script was born. 
    </details> 
-  
- Gathering Script (Chinese: <span lang="zh-cn">缘聚楷</span> / <span lang="zh-tw">緣聚楷</span>) is a TrueType CJK font that supports different East Asian languages, including Simplified Chinese (SC), Traditional Chinese (TW & HK), Japanese (JP) and Korean (KR). In this project, a full version font file includes about 50,000 glyphs, which can jointly present a consistent visual aesthetic. This font also includes Western glyphs, supporting Basic Latin, Greek and Cyrillic texts. Most of them comes from Klee One, some of which comes from its derivative fonts. 
-  
- In certain situation, characters based on the same original ideographic character may have up to five regional differentiated glyph designs. This project covers all of these glyph variants and delicately designs these localized forms. In the case where the webpage/software supports glyph variations, you only need to select the corresponding language specific font or language tag, and the correct glyph variation can be set successfully. 
-  
  ## Authorization 
  Gathering Script is derived from Klee One, which is licensed under the SIL Open Font License 1.1. [Klee](https://github.com/fontworks-fonts/Klee) is the trademark of FONTWORKS. 
   
