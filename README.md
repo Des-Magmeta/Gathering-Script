@@ -1,4 +1,5 @@
-English | [简体中文](https://github.com/Des-Magmeta/Gathering-Script/blob/main/REASME-ZHS.md) | [繁體中文](https://github.com/Des-Magmeta/Gathering-Script/blob/main/README-ZHT.md)
+English | <span lang="zh-CN"> [简体中文](./REASME-ZHS.md) </span> | <span lang="zh-TW"> [繁體中文](./README-ZHT.md)
+</span>
 
 > [!Note]
 > This repository is in process now. It's estimated that the first demo version will be released in 2026.
