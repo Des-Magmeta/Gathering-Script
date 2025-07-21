@@ -1,11 +1,12 @@
 [English](./README.md) | <span lang="zh-CN"> [简体中文](./README-ZHS.md) </span> | <span lang="zh-TW"> 繁體中文 </span>
 
-<div lang="zh-tw"> 
-
+> <div lang="zh-tw">
+> 
 > [!Note]
->
 > 此專案目前處於準備階段，首次發佈的演示版預計將於 2026 年釋出。
+> </div>
 
+<div lang="zh-tw"> 
 
  # Gathering Script | 緣聚楷   
  一款開源泛中日韓字型，基於 Fontworks 的 Klee One 改作。 
