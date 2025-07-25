@@ -1,4 +1,4 @@
-[English](./README.md) | <span lang="zh-CN"> 简体中文 </span> | <span lang="zh-TW"> [繁體中文](./README-ZHT.md) </span>
+[English](./README.md) | <span lang="zh-CN"> 简体中文 </span> | <span lang="zh-TW"> [繁體中文](./README-ZHT.md) </span> | <span lang="ja-JP"> [日本語](./README-JP.md) </span> | <span lang="ko-KR"> [한국어](./README-KR.md) </span>
 
 > [!Note]
 > 该项目目前处于准备阶段，首发演示版预计将于 2026 年发布。
