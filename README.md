@@ -6,7 +6,7 @@ English | <span lang="zh-CN"> [简体中文](./REASME-ZHS.md) </span> | <span la
  An open source CJK font devired from Fontworks' Klee One. 
   
  ## Introduction 
- Gathering Script (Chinese: <span lang="zh-cn">缘聚楷</span> / <span lang="zh-tw">緣聚楷</span>, Japanese: <span lang="ja-jp">ギャザー楷書</span>) is a TrueType CJK font that supports different East Asian languages, including Simplified Chinese (SC), Traditional Chinese (TW & HK), Japanese (JP) and Korean (KR). In this project, a full version font file includes about 50,000 glyphs, which can jointly present a consistent visual aesthetic. This font also includes Western glyphs, supporting Basic Latin, Greek and Cyrillic texts. Most of them comes from Klee One, some of which comes from its derivative fonts. 
+ Gathering Script (Chinese: <span lang="zh-cn">缘聚楷</span> / <span lang="zh-tw">緣聚楷</span>, Japanese: <span lang="ja-jp">ギャザー楷書</span>, Korean: <span lang="ko-kr">연취해</span>) is a TrueType CJK font that supports different East Asian languages, including Simplified Chinese (SC), Traditional Chinese (TW & HK), Japanese (JP) and Korean (KR). In this project, a full version font file includes about 50,000 glyphs, which can jointly present a consistent visual aesthetic. This font also includes Western glyphs, supporting Basic Latin, Greek and Cyrillic texts. Most of them comes from Klee One, some of which comes from its derivative fonts. 
   
  In certain situation, characters based on the same original ideographic character may have up to five regional differentiated glyph designs. This project covers all of these glyph variants and delicately designs these localized forms. In the case where the webpage/software supports glyph variations, you only need to select the corresponding language specific font or language tag, and the correct glyph variation can be set successfully. 
  
@@ -31,7 +31,7 @@ English | <span lang="zh-CN"> [简体中文](./REASME-ZHS.md) </span> | <span la
   
  ### Limit 
   - When making a derived font, the font name cannot use the “reserved name” of the original font.  
-  - The reserved name “<span lang="zh-cn">缘聚楷</span>”, “<span lang="zh-tw">緣聚楷</span>”, “<span lang="ja-jp">ギャザー楷書</span>” and “Gathering Script” shall not be used for the second modified work. Without modifying the font source code, the recompiled font can continue to use its reserved name.  
+  - The reserved name “<span lang="zh-cn">缘聚楷</span>”, “<span lang="zh-tw">緣聚楷</span>”, “<span lang="ja-jp">ギャザー楷書</span>”, “<span lang="ko-kr">연취해</span>” and “Gathering Script” shall not be used for the second modified work. Without modifying the font source code, the recompiled font can continue to use its reserved name.  
   - According to the provisions of Article 1 in the license and terms of [SIL Open Font License 1.1](https://scripts.sil.org/OFL), **Selling this font by itself is banned.**  
   - This font can't be distributed in a license other than the [SIL Open Font License 1.1](https://scripts.sil.org/OFL). 
   
