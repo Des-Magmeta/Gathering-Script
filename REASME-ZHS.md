@@ -32,7 +32,7 @@
 - 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL 1.1](https://scripts.sil.org/OFL) 公开。
 
 ### 限制  
-- 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称为<span lang="zh-cn">「缘聚楷」</span><span lang="zh-tw">「緣聚楷」</span><span lang="ja-jp">「ギャザー楷書」</span>「Gathering Script」，基于本字体二次衍生的字体，名称不可出现保留名称；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称。
+- 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称为「 <span lang="zh-cn">缘聚楷</span>」「<span lang="zh-tw">緣聚楷</span>」「<span lang="ja-jp">ギャザー楷書</span>」「Gathering Script」「<span lang="ko-KR">연취해</span>」，基于本字体二次衍生的字体，名称不可出现保留名称；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 许可与条件中第一条的规定， **禁止单独出售字体文件(OTF/TTF 文件)的行为。**
 - 该字体不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授权许可下发行。
 
