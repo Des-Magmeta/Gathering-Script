@@ -1,4 +1,4 @@
-English | <span lang="zh-CN"> [简体中文](./REASME-ZHS.md) </span> | <span lang="zh-TW"> [繁體中文](./README-ZHT.md) </span>
+English | <span lang="zh-CN"> [简体中文](./REASME-ZHS.md) </span> | <span lang="zh-TW"> [繁體中文](./README-ZHT.md) </span> | <span lang="ja-JP"> [日本語](./README-JP.md) </span> | <span lang="ko-KR"> [한국어](./README-KR.md) </span>
 
 > [!Note]
 > This repository is in process now. It's estimated that the first demo version will be released in 2026.
