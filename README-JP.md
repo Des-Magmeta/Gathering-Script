@@ -1,3 +1,5 @@
+[English](./README.md) | <span lang="zh-CN"> [简体中文](./REASME-ZHS.md) </span> | <span lang="zh-TW"> [繁體中文](./README-ZHT.md) </span> | <span lang="ja-JP"> 日本語 </span> | <span lang="ko-KR"> [한국어](./README-KR.md) </span>
+
 > [!Note]
 > <div lang="ja-JP">
 > 以下の日本語テキストはDeepLから翻訳されたものであり、正確性を保証するものではありません。英語または中国語のユーザーマニュアルをご参照ください。 
