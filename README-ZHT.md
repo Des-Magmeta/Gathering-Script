@@ -45,7 +45,7 @@
  - [Shs-cid](https://github.com/NightFurySL2001/shs-cid) 提供思源字型對映參考；   
  - [LXGW](https://github.com/lxgw) 製作的[「霞鶩文楷」](https://github.com/lxgw/LxgwWenKai)提供中國大陸標準字型、韓文標準字型； 
  - [ButTaiwan](https://github.com/ButTaiwan) 改作的[「芫荽」](https://github.com/ButTaiwan/iansui)提供臺灣地區標準字型； 
- - [ItMarki](https://github.com/ItMarki) 改作的 [「芫茜雅楷」](https://github.com/ItMarki/jyunsaikaai)提供香港地區標準字型； 
- - 部分漢字字形上述字型中均不包含，此部分源自[Steve-Yuu](https://github.com/Steve-Yuu) 製作的[Y 氏筆書體](https://github.com/Steve-Yuu/YshiPen-Shuti)。 
+ - [ItMarki](https://github.com/ItMarki) 改作的[「芫茜雅楷」](https://github.com/ItMarki/jyunsaikaai)提供香港地區標準字型； 
+ - 部分漢字字形上述字型中均不包含，此部分源自 [Steve-Yuu](https://github.com/Steve-Yuu) 製作的 [Y 氏筆書體](https://github.com/Steve-Yuu/YshiPen-Shuti)。 
   
  </div>
