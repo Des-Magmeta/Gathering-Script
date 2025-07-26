@@ -27,7 +27,7 @@
    </details> 
   
 ## ライセンス情報
- このフォントは<ruby>フォントワークス<rp>(</rp><rt>FONTWORKS</rt><rp>)</rp></ruby>の開発に基づく「<ruby>クレー<rp>(</rp><rt>Klee</rt><rp>)</rp></ruby>」のオープンソースプロジェクトであり、SIL Open Font License 1.1の下でリリースされている。<ruby>クレー<rp>(</rp><rt>Klee</rt><rp>)</rp></ruby>は<ruby>フォントワークス<rp>(</rp><rt>FONTWORKS</rt><rp>)</rp></ruby>の商標です。
+ このフォントは<ruby>フォントワークス<rp>(</rp><rt>FONTWORKS</rt><rp>)</rp></ruby>の開発に基づく「<ruby>クレー<rp>(</rp><rt>Klee</rt><rp>)</rp></ruby>」のオープンソースプロジェクトであり、SIL Open Font License 1.1 の下でリリースされている。<ruby>クレー<rp>(</rp><rt>Klee</rt><rp>)</rp></ruby>は<ruby>フォントワークス<rp>(</rp><rt>FONTWORKS</rt><rp>)</rp></ruby>の商標です。
   
 ### 許可   
  - このフォントは、個人・法人を問わず、無償で自由に商用利用することができます。*（ご一報いただければ幸いです）*
